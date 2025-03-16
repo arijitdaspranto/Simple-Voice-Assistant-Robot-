@@ -1,2 +1,2 @@
 # Simple-Voice-Assistant-Robot-
-Voice assistant using Vr3 voice recognition module
+Voice assistant using Vr3 voice recognition module. Used 2 Arduino. 1 Mega and 1 uno. here the uno code actually takes output from voice recognition module and commit serial communication to mega arduino and gives signal as serial communication to do various things. Such as when serial value is 7, it initiates gsm call to a number. when value is 1, it replies with a audio. Df player mini, gsm module is used to do specified things.
